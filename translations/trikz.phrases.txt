@@ -1,0 +1,42 @@
+"Phrases"
+{
+    "P_Prefix"
+    {
+      "en"                       "{#FFFFFF}[ {#9e54bd}INFO {#FFFFFF}]"
+    }
+    "P_Autoflash"
+    {
+        "#format"                "{1:s}"
+        "en"                     "{#FFFFFF}{1} Autoflash."
+    }
+    "P_Autoswitch"
+    {
+        "#format"                "{1:s}"
+        "en"                     "{#FFFFFF}{1} Autoswitch."
+    }
+    "P_Block"
+    {
+        "#format"                "{1:s}"
+        "en"                     "{#FFFFFF}{1} Block."
+    }
+    "P_HavePartner"
+    {
+        "en"                     "{#FFFFFF}You already have a partner."
+    }
+    "P_NoPlayersPartner"
+    {
+        "en"                     "{#FFFFFF}There are no players that you could partner with."
+    }
+    "P_NoPlayersTeleport"
+    {
+        "en"                     "{#FFFFFF}There are no players that you could teleport to."
+    }
+    "P_NoPartnerBreakup"
+    {
+        "en"                     "{#FFFFFF}You don't have a partner to breakup with."
+    }
+    "P_PartnerShipCancelled"
+    {
+        "en"                     "{#FFFFFF}Your partnership has been cancelled"
+    }
+}
